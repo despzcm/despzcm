@@ -3,7 +3,7 @@
 - 🏫 Undergraduate at SJTU
 - 🔭 Major in AI
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=despzcm&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=despzcm&count_private=true&show_icons=true&line_height=20&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
